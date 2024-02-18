@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AntonP9026
+- 👋 Hi, I’m Anton Permyakov
 - 👀 I’m interested in Data Analytics, especially when it is applied to electricity markets
 - 🌱 I’m currently learning SQL, Tableau, Power BI and Python
 - 💞️ I’m looking to collaborate on Data Visualization projects on any topics
