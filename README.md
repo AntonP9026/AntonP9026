@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton Permyakov
-- 👀 I’m interested in Data Analytics, especially when it is applied to electricity markets
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL, Tableau, Power BI and Python
-- 💞️ I’m looking to collaborate on Data Visualization projects on any topics
+- 💞️ I’m looking to collaborate on Data Visualization projects on any topic
 - 📫 How to reach me: apermyakov9026@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I played for a Cypriot paintball team at a european tournament
